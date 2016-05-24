@@ -39,3 +39,6 @@ $RECYCLE.BIN/
 
 # Visio autosave temporary files
 *.~vsdx
+
+### Astah ###
+*.asta.lock
